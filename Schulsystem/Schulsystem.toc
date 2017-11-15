@@ -1,1 +1,5 @@
 \select@language {german}
+\contentsline {section}{\numberline {1}Vorwort}{3}
+\contentsline {section}{\numberline {2}Zur\IeC {\"u}cklassen des Klassensystems}{3}
+\contentsline {subsection}{\numberline {2.1}Leistungserhebung}{3}
+\contentsline {subsection}{\numberline {2.2}Lernziele}{4}
